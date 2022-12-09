@@ -5,6 +5,7 @@
 
 ## 버킷리스트 프로젝트
 
+![image](https://user-images.githubusercontent.com/64001275/206623504-d07a4e7c-2ec6-4643-b590-823e1d890037.png)
 >https://github.com/95hanho/FINAL_PROJECT_BUCKETSTORY/tree/HHS
 
 ### 목표 및 요약
