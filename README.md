@@ -113,6 +113,7 @@ ex) 요리교습 같은 실습 지원이나 숙박, 여행사 등과 연계하�
 
 ## ELK로그분석 조회웹
 
+![image](https://user-images.githubusercontent.com/64001275/206623405-bed0413f-d91d-42d3-8918-978a6dee9a61.png)
 > https://github.com/95hanho/LogSearch
 
 ### 목표 및 요약
