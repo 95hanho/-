@@ -187,7 +187,7 @@ ex) 요리교습 같은 실습 지원이나 숙박, 여행사 등과 연계하�
 ## 리액트 실습
 
 ![image](https://user-images.githubusercontent.com/64001275/208095180-4fd4a960-765a-402b-b824-8024a34b51d9.png)
-
+> https://github.com/95hanho/SpringReactExample
 
 ### 목표 및 요약
 
