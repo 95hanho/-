@@ -86,9 +86,9 @@ ex) 요리교습 같은 실습 지원이나 숙박, 여행사 등과 연계하�
 ## 뷰실습 프로젝트
 
 ![image](https://user-images.githubusercontent.com/64001275/206630926-ceb9d556-52ed-435b-a1b8-f3cd715ef991.png)
-> [https://github.com/95hanho/SpringVueExample.git](https://github.com/95hanho/SpringVuePractice)
+> https://github.com/95hanho/SpringVuePractice
 
-> https://github.com/95hanho/ExpressVueExample.git
+> https://github.com/95hanho/ExpressVueExample
 
 ### 목표 및 요약
 
